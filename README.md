@@ -33,7 +33,7 @@ Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED 
 
 ### Recommended System Requirements
 
-NGVO requires a mid-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
+Sovngarde Awaits requires a mid-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
 
 | Component    | Recommended for 1080p | 
 |:--------------:|:-------------:|
