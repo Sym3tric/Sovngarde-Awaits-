@@ -1,6 +1,7 @@
 # Sovngarde Awaits - A Vanilla Plus Modlist
 
-![banner image]((https://staticdelivery.nexusmods.com/mods/1704/images/137241/137241-1735105321-212482469.png))
+![banner image]((![image](https://github.com/user-attachments/assets/e8d9d5eb-c6f0-4001-8cec-ba3e5f5b001a)
+))
 
 Wabbajack Modlist by Sym3tric.
 
