@@ -85,11 +85,11 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 
 #### Downloading and Installing Sovngarde Awaits
 
-Downloading and installing Sovngarde Awaits can take a while depending on your internet connection and computer. To install NGVO, complete the following steps.
+Downloading and installing Sovngarde Awaits can take a while depending on your internet connection and computer. To install Sovngarde Awaits, complete the following steps.
 
 1. Open Wabbajack and click on browse modlists.
-2. Press the download button on NGVO and wait for it to download.
-3. Set the installation folder to be somewhere like C:\NGVO. **Do not install it to your desktop or downloads folder.**
+2. Press the download button on Sovngarde Awaits and wait for it to download.
+3. Set the installation folder to be somewhere like C:\Sovngarde Awaits. **Do not install it to your desktop or downloads folder.**
 4. The download location does not need to be on a SSD but it makes installing a bit faster.
 5. Press the play button to begin.
 6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
@@ -132,11 +132,11 @@ Sovngarde Awaits also utilizes Root Builder alongside Stock Game to enable easie
 ### Starting up the list
 Open the installation folder and double-click on the program called `ModOrganizer.exe`. 
 
-Make sure the dropdown box on the right is set to `NGVO` and press the `Run` button.
+Make sure the dropdown box on the right is set to `Sovngarde Awaits` and press the `Run` button.
 
 ### In-game MCM options
 
-NGVO has no required MCM options to be selected; however, you can load the smoothcam preset if you wish to do so.
+Sovngarde Awaits has no required MCM options to be selected; however, you can load the smoothcam preset if you wish to do so.
 
 You are welcome to change any others to achieve your desired setup.
 
