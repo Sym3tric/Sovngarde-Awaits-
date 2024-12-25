@@ -6,7 +6,7 @@ Wabbajack Modlist by Sym3tric.
 
 <table stlyle="border: none;">
 <tr>
-<td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/119972">Nexus Page</a></td>	
+<td><a href="https://www.nexusmods.com/skyrimspecialedition/mods/137241">Nexus Page</a></td>	
 <td><a href="https://loadorderlibrary.com/lists/sovngarde-awaits">Load Order Library</a></td>
 <td><a href="https://discord.gg/U65rdTf2yE"><img alt="Discord" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="64px" ></a></td>
 </tr>
