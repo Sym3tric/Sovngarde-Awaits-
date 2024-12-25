@@ -1,0 +1,39 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Sovngarde Awaits",
+    "description": "A EnaiRim Modlist Based On NGVO",
+    "author": "Sym3tric",
+    "maintainers": [
+      "github/Sym3tric"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "NGVO",
+      "LOTD",
+      "EnaiRim"
+    ],
+    "nsfw": true,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://github.com/Sym3tric/Sovngarde-Awaits-/blob/main/Sovngarde%20Awaits.png?raw=true",
+      "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/137241",
+      "download": "https://authored-files.wabbajack.org/Sovngarde Awaits .wabbajack_9b1086fd-fb6b-44a5-969d-b8702ace6d30",
+      "machineURL": "machineURL",
+      "discordURL": "https://discord.gg/U65rdTf2yE"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "rylal+zuQXE=",
+      "Size": 5272161115,
+      "NumberOfArchives": 1698,
+      "SizeOfArchives": 173201528749,
+      "NumberOfInstalledFiles": 181055,
+      "SizeOfInstalledFiles": 224690696370
+    },
+    "version": "0.1"
+  }
+]
+
